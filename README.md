@@ -1,2 +1,2 @@
 # Drum-Kit
-This is a simple drum kit game.
+Hi Everyone! This is a simple drum kit project.
